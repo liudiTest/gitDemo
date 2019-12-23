@@ -1,4 +1,5 @@
 public class TestController {
+    private final static String FLAG="OK";
     /*
      *UAT版本
      */
